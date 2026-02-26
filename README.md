@@ -1,4 +1,4 @@
-# 🐷 Pig Game - JavaScript Dice Game
+#  Pig Game - JavaScript Dice Game
 
 A simple and fun Pig Dice Game built using HTML, CSS, and JavaScript.
 
